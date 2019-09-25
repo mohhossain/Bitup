@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bitup</string>
+    <string name="Price">Price:</string>
+    <string name="amount">0000.00</string>
+    <string name="label_error_text">Error</string>
+
+    <string-array name="Currency_items">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
